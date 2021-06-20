@@ -61,10 +61,10 @@
 </p>
 
 ### Wanna see my blogs:question:
-- [Python Roadmap to follow in 2021](https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca?source=rss-5c8e98221095------2)
-- [The One-Stop Web Development Roadmap to follow in 2021](https://dev.to/chandrikadeb7/the-one-stop-web-development-roadmap-to-follow-in-2021-4oa4)
-- [How to make a Twitterbot?](https://dev.to/chandrikadeb7/how-to-make-a-twitterbot-3p13)
-- [Creativity vs Innovation —The silver linings of the pandemic year 2020](https://medium.com/agileinsider/creativity-vs-innovation-the-silver-linings-of-the-pandemic-year-2020-13c159683cb7?source=rss-5c8e98221095------2)
-- [Pure CSS Art: From Zero to Hero](https://medium.com/analytics-vidhya/pure-css-art-from-zero-to-hero-b15d11f96702?source=rss-5c8e98221095------2)
+- [Debug on next level with JavaScript console log and other methods](https://www.abhishekdeshmukh.com/blog/javascript-console-log-and-other-methods------2)
+- [JavaScript array methods every developer must know](https://www.abhishekdeshmukh.com/blog/javascript-array-methods)
+- [CSS Grid vs Flexbox! What's better?](https://www.abhishekdeshmukh.com/blog/css-grid-vs-flexbox)
+- [https://www.abhishekdeshmukh.com/blog/angular-material-table-pagination-sort-filter](https://www.abhishekdeshmukh.com/blog/angular-material-table-pagination-sort-filter------2)
+- [Build Mobile Apps using Angular](https://www.abhishekdeshmukh.com/blog/build-mobile-apps-using-angular------2)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekdeshmukh74&show_icons=true&locale=en" alt="abhishekdeshmukh74" /></p>
