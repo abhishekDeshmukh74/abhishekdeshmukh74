@@ -11,7 +11,7 @@
 <a href="https://www.youtube.com/channel/UCzZeBOATg2XknvLwTFzNJDg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Codeplay" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abhishek__deshmukh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhishek__deshmukh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhishek-deshmukh-4b82a7147" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek-deshmukh-4b82a7147" height="30" width="40" /></a>
- <a href="https://www.facebook.com/abhishekdeshmukh74" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishekdeshmukh74" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/abhishekdeshmukh74" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abhishekdeshmukh74" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekdeshmukh74&show_icons=true&locale=en" alt="abhishekdeshmukh74" /></p>
