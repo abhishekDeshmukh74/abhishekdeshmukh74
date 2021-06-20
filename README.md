@@ -64,7 +64,7 @@
 - [Debug on next level with JavaScript console log and other methods](https://www.abhishekdeshmukh.com/blog/javascript-console-log-and-other-methods------2)
 - [JavaScript array methods every developer must know](https://www.abhishekdeshmukh.com/blog/javascript-array-methods)
 - [CSS Grid vs Flexbox! What's better?](https://www.abhishekdeshmukh.com/blog/css-grid-vs-flexbox)
-- [https://www.abhishekdeshmukh.com/blog/angular-material-table-pagination-sort-filter](https://www.abhishekdeshmukh.com/blog/angular-material-table-pagination-sort-filter------2)
+- [Angular Material Table - Pagination, Sort, Filter](https://www.abhishekdeshmukh.com/blog/angular-material-table-pagination-sort-filter------2)
 - [Build Mobile Apps using Angular](https://www.abhishekdeshmukh.com/blog/build-mobile-apps-using-angular------2)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekdeshmukh74&show_icons=true&locale=en" alt="abhishekdeshmukh74" /></p>
