@@ -68,3 +68,14 @@
 - [Build Mobile Apps using Angular](https://www.abhishekdeshmukh.com/blog/build-mobile-apps-using-angular------2)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekdeshmukh74&show_icons=true&locale=en" alt="abhishekdeshmukh74" /></p>
+
+<h1 align="center">Let's Get Connected</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-deshmukh-dev" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40">
+  </a>
+</p>
+
+<br />
+
