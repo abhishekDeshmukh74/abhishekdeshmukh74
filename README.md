@@ -1,9 +1,5 @@
 <!-- PROFILE README — Abhishek Deshmukh -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px" />
-</p>
-
 <h1 align="center">Abhishek Deshmukh</h1>
 
 <p align="center">
