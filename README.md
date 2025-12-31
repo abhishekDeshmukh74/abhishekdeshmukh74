@@ -43,7 +43,7 @@
 
 ---
 
-## 🤖 Gen AI & AI Stack
+## 🤖 Gen AI Stack
 <p>
   <img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai" />
@@ -71,13 +71,6 @@
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman" />
 </p>
-
----
-
-## 📌 Featured projects
-- ⭐ **Gen AI Platform / Feature** — LLM-powered workflows, RAG, and API integrations  
-- ⭐ **Frontend Application** — React / Next.js with clean UI and performance focus  
-- ⭐ **Full-Stack System** — End-to-end app with backend APIs and database design  
 
 ---
 
